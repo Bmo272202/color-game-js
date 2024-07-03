@@ -1,0 +1,51 @@
+.col {
+  align-items: center;
+  width: 200px;
+  height: 200px;
+  margin-top: 15%;
+  margin-left: 8%;
+  margin-right: 8%;
+  border-radius: 10px;
+}
+
+.stop {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5%;
+}
+
+.dd {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2%;
+}
+
+#btn {
+  width: 200px;
+  height: 50px;
+  margin-top: 2%;
+  margin-left: 2%;
+}
+
+#btn2 {
+  width: 200px;
+  height: 50px;
+  margin-top: 2%;
+  margin-left: 2%;
+}
+
+#btn3 {
+  width: 200px;
+  height: 50px;
+  margin-top: 2%;
+  margin-left: 2%;
+}
+
+#btn1 {
+  width: 200px;
+  height: 50px;
+  margin-top: 2%;
+  margin-left: 100px;
+}
